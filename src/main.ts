@@ -6,7 +6,7 @@ import { VueReCaptcha } from 'vue-recaptcha-v3';
 import VueAnalytics from 'vue-analytics';
 
 Vue.use(VueReCaptcha, {
-  siteKey: '6LfLo5EUAAAAACZJiD1pMTt0nf2XvFOXK3jTdEhx',
+  siteKey: '6LerrJEUAAAAAOw6G07D1CZ87gRmrEmXO9m-BYAX',
   loaderOptions: {
     useRecaptchaNet: true,
   },
